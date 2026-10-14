@@ -1,0 +1,6 @@
+{
+  "name": "Instrumen Konten Media Baru TVRI Kalbar",
+  "description": "Sistem Manajemen, Perencanaan, Produksi, dan Distribusi Konten Media Baru LPP TVRI Stasiun Kalimantan Barat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
